@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("7576124345:AAHtXI97MUrufKaZUfIsH7eFjNRsXQkMHEI")
 FILE_PATH = "yourfile.txt"  # Change this to your actual file
 
 bot = Bot(token=TOKEN)
